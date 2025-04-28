@@ -28,7 +28,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/vignesharavindh" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" style="margin: 0 10px;" /></a>
   <a href="mailto:vignesharavindh27@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" style="margin: 0 10px;" /></a>
-  <a href="https://your-portfolio-link.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" style="margin: 0 10px;" /></a>
+  <a href="https://aravindh-vignesh.github.io/Portfolio/home.html" target="_blank"><img src="https://skillicons.dev/icons?i=github" style="margin: 0 10px;" /></a>
 </p>
 
 ---
