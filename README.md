@@ -26,12 +26,20 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vignesharavindh" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" style="margin: 0 10px;" /></a>
-  <a href="mailto:vignesharavindh27@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" style="margin: 0 10px;" /></a>
- <a href="https://aravindh-vignesh.github.io/Portfolio/home.html" target="_blank">
-  <img src="https://skillicons.dev/icons?i=webflow" style="margin: 0 10px;" />
-</a>
+  <a href="https://www.linkedin.com/in/vignesharavindh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:vignesharavindh27@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/aravindh-vignesh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://aravindh-vignesh.github.io/Portfolio/home.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=webflow" width="40" height="40" />
+  </a>
 </p>
+
 
 ---
 
