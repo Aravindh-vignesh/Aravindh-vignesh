@@ -61,12 +61,8 @@
 
 ## 👀 Visitors Count
 
-## 👀 Visitors Count
-
-## 👀 Visitors Count
-
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Aravindh-vignesh.Aravindh-vignesh" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Aravindh-vignesh&color=brightgreen" alt="visitor badge"/>
 </p>
 
 
