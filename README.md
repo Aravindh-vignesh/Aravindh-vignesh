@@ -58,6 +58,13 @@
   <img src="https://skillicons.dev/icons?i=github,vscode,figma,mysql" />
 </p>
 
+
+## 👀 Visitors Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aravindh-vignesh&color=brightgreen" alt="visitor badge"/>
+</p>
+
 ---
 
 ## 💻 My Gear Setup
