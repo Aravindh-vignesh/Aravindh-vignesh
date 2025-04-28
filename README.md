@@ -73,7 +73,7 @@
 
 | 💻 Laptop              | 🧠 Processor     | 🎮 Graphics         | 🔋 RAM   |
 |------------------------|------------------|---------------------|----------|
-| Lenovo IdeaPad Slim 3  | Ryzen 5 4600U    | Radeon Integrated   | 8GB      |
+| Lenovo IdeaPad Slim 3  | AMD Ryzen 5 7520U    | Radeon Integrated   | 8GB      |
 
 ---
 
