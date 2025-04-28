@@ -14,11 +14,14 @@
 
 ## 🧠 About Me
 
-<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="270" alt="Code Animation" />
+<img align="right" alt="coding" width="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🎯 I build clean, creative UIs with purpose  
+
 - 💬 Ask me about: `React.js`, `Java`, or full-stack web development  
+
 - 🤖 Fun Fact: I treat Java like coffee—strong, smooth, and essential  
+
 - 🧪 Exploring: The magic of full-stack development
 
 <br><br>
