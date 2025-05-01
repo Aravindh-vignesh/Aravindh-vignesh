@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://camo.githubusercontent.com/d8bbfe1b86717980b96ff81f7e9440948039aafaa016bdc33291fb8f2bc008c4/687474703a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966" width="800" height="auto" />
 </p>
-
+<p >
+  <img src="https://komarev.com/ghpvc/?username=Aravindh-vignesh&color=brightgreen" alt="visitor badge"/>
+</p>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Vignesh+Aravindh!;Full+Stack+Web+Developer;Exploring+Java+%26+React.js;Coding+with+Creativity+%F0%9F%9A%80" alt="Typing Animation" />
 </h1>
@@ -11,6 +13,7 @@
 </h3>
 
 ---
+
 
 ## 🧠 About Me
 
@@ -59,11 +62,8 @@
 </p>
 
 
-## 👀 Visitors Count
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aravindh-vignesh&color=brightgreen" alt="visitor badge"/>
-</p>
+
 
 
 
